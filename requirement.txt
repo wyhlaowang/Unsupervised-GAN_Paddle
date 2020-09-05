@@ -1,0 +1,5 @@
+paddle==1.8.3
+PIL
+numpy
+opencv-python
+scipy 
